@@ -1,0 +1,2 @@
+# MyMangementSchool
+school management program Properties 1 - Use the Arabic language 2 - It works on the Windows system 3- Registering employees and determining their rank as manager, accountant, teacher or data entry 4- Registration of student and teacher data 5- Recording tuition payment data 6- Recording employee and accountant salaries data  Programming languages ​​used 1 C# .net 2 sql server 2008
